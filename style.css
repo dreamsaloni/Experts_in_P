@@ -1,0 +1,51 @@
+#submit_quiz
+{
+    width: 300px;
+    height: 100px;
+    font-size: larger;
+    border-radius: 20px;
+    color: #ffae00;
+    
+}
+
+body
+{
+background-color:black;
+}
+
+#heading
+{
+ color: #ffd000;
+ text-decoration:underline;
+ text-decoration-color: #f8f8f6;
+}
+
+#chapter 
+{
+ color: #ffc400;
+ text-decoration:underline;
+ text-decoration-color: #fdfdfc;
+}
+
+div
+{
+    color: #fdfdfd;
+    text-decoration:underline;
+    text-decoration-color: #ffae00;  
+}
+
+#display 
+{
+    color: #fdfdfc;
+    text-decoration: underline;
+    text-decoration-color: #ffae00;
+}
+
+#logo_img
+
+{
+ width: 250px;;
+ height: 200px;;
+
+}
+
